@@ -1,0 +1,25 @@
+# Arquivos compilados
+*.class
+
+# Pacotes
+*.jar
+*.war
+*.ear
+
+# Pastas de build
+/build/
+/dist/
+/target/
+
+# Arquivos privados do NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
