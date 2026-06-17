@@ -6,7 +6,7 @@ package tp_04;
 
 /**
  *
- *  Nomes: João Victor Lima Venceslau - Rayssa Silva de Oliveira
+ *  Nomes: João Victor Lima Venceslau - Rayssa Silva de Oliveira.
  */
 /**Exercício 02
 Agora, desenvolva um programa capaz de testar a classe e os métodos desenvolvidos no
