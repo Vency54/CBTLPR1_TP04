@@ -57,9 +57,7 @@ DateFormat empregando o seguinte método: getDateInstance(DateFormat.FULL);
 • Conveniente colocar tratamento de exceção para as possíveis inconsistências na entrada de dados.
  */
 
-import java.util.Scanner;
-import java.util.Date;
-import java.text.DateFormat;
+import java.util.*;
 
 public class Data {
     private int dia;
